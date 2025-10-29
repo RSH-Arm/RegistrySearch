@@ -21,8 +21,8 @@ RegistrySearch - это мощный PowerShell скрипт для компле
 - **Windows** 7/8/10/11 или Windows Server 2008+
 - **owerShell** 5.1 или выше
 - **Права администратора** (рекомендуется для полного доступа)
-- 
-##🛠️ Установка
+
+## 🛠️ Установка
 ```powershell
 # Скачайте скрипт
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yourusername/RegistrySearch/main/RegistrySearch.ps1" -OutFile "RegistrySearch.ps1"
